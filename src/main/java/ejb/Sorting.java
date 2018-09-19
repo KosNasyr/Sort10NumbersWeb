@@ -11,7 +11,7 @@ public class Sorting {
 
         /*
         Collections.sort(nums);
-        Если вариат сортировки через Collections Вас не устраивает то:
+        Если вариат сортировки через Collections Вас не устраивает, то:
          */
 
         for (int i = nums.size() - 1; i > 0; i--) {
